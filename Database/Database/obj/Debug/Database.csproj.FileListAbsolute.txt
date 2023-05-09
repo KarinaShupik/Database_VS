@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\bin\Debug\Departure.mdf
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\bin\Debug\Departure_log.ldf
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\bin\Debug\Database.exe.config
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\bin\Debug\Database.exe
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\bin\Debug\Database.pdb
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.exe
+C:\Users\HP\Desktop\home\Programming\C#\Database\Database\obj\Debug\Database.pdb
